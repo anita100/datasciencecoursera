@@ -20,8 +20,6 @@ see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
 
 * list
 
->block quote
-
     code (4 spaces indent)
 [links](http://wikipedia.org)
 
